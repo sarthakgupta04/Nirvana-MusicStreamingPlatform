@@ -1,6 +1,6 @@
-# Music Streamer
+# Nirvana-A Music Streaming Platform
 
-This project is a digital music platform, It's made for listening to music and making your favorite music collection. Spotify API is used to get tracks and albums, artists. Spotify API provides millions of music data. This project is made in the MERN stack.
+Nirvana is a music platform, It's made for listening to music and making your favorite music collection. Spotify Web API is used to get tracks and albums, artists. Spotify API provides millions of music data. This project is developed on MERN Stack, and could be deployd on cloud platfroms like AWS, GCP, and more.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project is a digital music platform, It's made for listening to music and m
 
 ## Prerequisites
 
-- get your spotify api key from https://developer.spotify.com/documentation/web-api/tutorials/getting-started
+- get your spotify web api key from https://developer.spotify.com/documentation/web-api/tutorials/getting-started
 
 Make sure you have installed all of the following prerequisites on your development machine:
 
@@ -34,13 +34,14 @@ Make sure you have installed all of the following prerequisites on your developm
 
 #vite #reactjs #scss #redux-toolkit
 
-#nodejs #expressjs #mongodb #jsonwebtoken authentication
-
-#javascript
-
-#api
-
-#spotify #music platform
+-Node.js
+-Express.js
+-MongoDB
+-React.js
+-Redux
+-JWTokens for Authentication
+-Javascript
+-Spotify Web API
 
 ## Environment Variables
 
@@ -62,7 +63,7 @@ To run this project, you will need to add the following environment variables to
 
 `MAIL_SECRET`
 
-To run this project, you will need to add the following environment variables to your .env.local file in client directory
+**To run this project, you will need to add the following environment variables to your .env.local file in client directory**
 
 `VITE_GOOGLE_CLIENT` #Google login api client id
 
