@@ -32,16 +32,16 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Technology Used
 
--Node.js
--Express.js
--MongoDB
--React.js
--Redux-toolkit
--SCSS
--Vite
--JWTokens for Authentication
--Javascript
--Spotify Web API
+- Node.js
+- Express.js
+- MongoDB
+- React.js
+- Redux-toolkit
+- SCSS
+- Vite
+- JWTokens for Authentication
+- Javascript
+- Spotify Web API
 
 ## Environment Variables
 
