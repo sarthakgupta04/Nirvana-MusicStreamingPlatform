@@ -71,7 +71,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/ansonbenny/Music-Streamer
+  git clone https://github.com/sarthakgupta04/Nirvana-MusicStreamingPlatform
 ```
 
 ##To Start BackEnd
@@ -79,7 +79,7 @@ Clone the project
 Go to the server directory
 
 ```bash
-  cd Music-Streamer/server
+  cd server
 ```
 
 Install dependencies
@@ -99,7 +99,7 @@ Start
 Go to the client directory
 
 ```bash
-  cd Music-Streamer/client
+  cd client
 ```
 
 Install dependencies
@@ -114,10 +114,6 @@ Start
   npm run dev
 ```
 
-## Demo
-
-[Live](https://musicon-nvce.onrender.com/)
-
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-benny-502961238/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta4/)
