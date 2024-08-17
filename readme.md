@@ -32,13 +32,13 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Technology Used
 
-#vite #reactjs #scss #redux-toolkit
-
 -Node.js
 -Express.js
 -MongoDB
 -React.js
--Redux
+-Redux-toolkit
+-SCSS
+-Vite
 -JWTokens for Authentication
 -Javascript
 -Spotify Web API
